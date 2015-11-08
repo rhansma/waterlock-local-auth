@@ -1,6 +1,6 @@
 {
   "name": "waterlock-local-auth-bcryptjs",
-  "version": "v0.1.2-rc1",
+  "version": "v0.1.2-rc2",
   "description": "local authentication for waterlock, bcryptjs version for usage with node versions higher than 0.12",
   "main": "index.js",
   "scripts": {
